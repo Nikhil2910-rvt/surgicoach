@@ -5,8 +5,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 # Working with the site
 * The backend of the site is deployed on firebase.
 * You can visit the site from <a href ="https://surgicoach.com/myprocedure"> this link</a>
-* I made a dummy Account with ID: nikhil@gmail.com and Password: Password.
+* I made a dummy Account with ID: nikhil@gmail.com and Password: password.
+* ![dash](https://user-images.githubusercontent.com/72464209/235976246-c8a82bb6-45d3-4bdc-b2ef-46f6fcd16b61.jpg)
 * After logging in from the above specified credentials you can do testing of the site.
+![page](https://user-images.githubusercontent.com/72464209/235976323-7e4df329-d130-4a2b-bc16-eea7a8b1a230.jpg)
+![my patients](https://user-images.githubusercontent.com/72464209/235976386-12a3be7a-6fac-438c-abdd-4eb87df07bbd.jpg)
 
 ## Available Scripts
 
