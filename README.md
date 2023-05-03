@@ -2,6 +2,12 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Working with the site
+* The backend of the site is deployed on firebase.
+* You can visit the site from <a href ="https://surgicoach.com/myprocedure"> this link</a>
+* I made a dummy Account with ID: nikhil@gmail.com and Password: Password.
+* After logging in from the above specified credentials you can do testing of the site.
+
 ## Available Scripts
 
 In the project directory, you can run:
